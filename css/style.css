@@ -1,0 +1,92 @@
+/* h1 {
+    text-align: center;
+}
+
+li {
+    background-color: rgb(11, 180, 67);
+    color: white;
+    max-width: 300px;
+    margin: 15px auto;
+    padding: 4px;
+    border-radius: 5px;
+    cursor: pointer;
+} */
+
+/* 
+button {
+    display: block;
+    border: none;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 15px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+} */
+
+/* .list {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+.todos {
+    color: red;
+    font-size: 60px;
+} */
+
+/*  */
+
+/* .container h3 {
+    font-size: 50px;
+    padding: 50px;
+    text-align: center;
+}
+
+.img button {
+    font-size: 30px;
+    justify-content: center;
+    gap: 30px;
+    text-align: center;
+    margin-top: 30px;
+} */
+
+/* .container{
+    padding: 30px;
+    margin: 30px;
+    
+}
+
+.title h3{
+   text-align: center;
+   color: rgb(3, 253, 3);
+   font-size: 50px;
+}
+
+.info{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    gap: 100px;
+}
+
+.button{
+    display: block;
+     margin: auto;
+    border: none;
+    border-radius: 20px;
+    font-size: 30px;
+    color: chartreuse;
+    background-color: darkblue;
+}     
+
+
+.img_1 h3{
+    color: rgb(3, 253, 3) ;
+}
+
+
+.img_2{
+    color:  rgb(3, 253, 3);
+} */
